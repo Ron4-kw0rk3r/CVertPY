@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*- 
-# Author R. Bryan Sanchez M. 
+# Author R. Brayan Sanchez M. 
 #  by :> RTkw0rk3r
 import sys
 import os
@@ -17,10 +17,6 @@ from termcolor import colored
 import moviepy.editor as mvc
 
 # from moviepy.editor import * as mvc
-
-# lib compresor de imagenes y editor de videos una libreria que trabaja a nivel de control de ffmpg ademas del control que este mantine 
-# con el control de sistema 
-# esclareciendo asi otro tipo de segmento de a nivel de construccion  de este tipo de ideas
 
 
 
@@ -55,3 +51,4 @@ def makeconverter(example):
 if __name__ == "__main__":
     makeconverter(str(sys.argv[1]))
     
+# end program ... 
